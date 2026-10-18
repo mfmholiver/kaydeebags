@@ -62,7 +62,7 @@ while wait() do
 		wait(3)
 
 	elseif script.Parent.Model.Rt.R.Num.Text == "402Z" then
-		show("rbxassetid://74858405198618","rbxassetid://88380463005033","rbxassetid://74858405198618")
+		show("rbxassetid://117500357403093","rbxassetid://88380463005033","rbxassetid://117500357403093")
 		wait(5)
 		show("rbxassetid://94766198212117","rbxassetid://88380463005033","rbxassetid://94766198212117")
 		wait(3)
@@ -74,7 +74,7 @@ while wait() do
 		wait(3)
 
 	elseif script.Parent.Model.Rt.R.Num.Text == "404Z" then
-		show("rbxassetid://80251486683393","rbxassetid://102352369963632","rbxassetid://80251486683393")
+		show("rbxassetid://83817149482261","rbxassetid://102352369963632","rbxassetid://83817149482261")
 		wait(5)
 		show("rbxassetid://78624251072325","rbxassetid://102352369963632","rbxassetid://78624251072325")
 		wait(3)
