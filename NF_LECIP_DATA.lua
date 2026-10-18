@@ -12,7 +12,7 @@ show("","","")
 elseif script.Parent.Model.Rt.R.Num.Text == "" then
 show("rbxassetid://","rbxassetid://","rbxassetid://")
 
-VER 1017 2.0 KAYDEE NF
+VER 1017 2.0 KAYDEE NF 
 ]]--
 while wait() do
 
@@ -78,6 +78,11 @@ while wait() do
 		wait(5)
 		show("rbxassetid://78624251072325","rbxassetid://102352369963632","rbxassetid://78624251072325")
 		wait(3)
+
+		-- special --
+		
+	elseif script.Parent.Model.Rt.R.Num.Text == "MFMFUSOROSA" then
+		show("rbxassetid://123883311453223","rbxassetid://77558260897839","rbxassetid://123883311453223")
 
 	else show("","","") end
 
