@@ -1,10 +1,10 @@
 {   
-  "ScrollSpeed": 120,   
+  "ScrollSpeed": 100,   
   "GapPixels": 80,   
   "Headlines": [     
-  "BREAKING: Heavy rain expected across the city tonight...",     
-  "SPORTS: Local team wins championship in overtime thriller!",     
-  "TECH: New AI update boosts server performance by 40%.",     
-  "TRAFFIC: Main bridge closed for maintenance until 6 AM."   
+  "香港政府宣佈不予亞洲電視(ATV)之本地免費電視牌照續期。",     
+  "亞洲電視將於 4月1日 0時0分 停播。 數碼頻譜將由VIUTV接手。",     
+  "香港電視娛樂之ViuTV (99台) 將於 6日 正式啟播",     
+  "測試新聞"   
   ] 
 }
