@@ -1,6 +1,6 @@
 {   
-  "ScrollSpeed": 100,   
-  "GapPixels": 80,   
+  "ScrollSpeed": 80,   
+  "GapPixels": 60,   
   "Headlines": [     
   "香港政府宣佈不予亞洲電視(ATV)之本地免費電視牌照續期。",     
   "亞洲電視將於 4月1日 0時0分 停播。 數碼頻譜將由VIUTV接手。",     
