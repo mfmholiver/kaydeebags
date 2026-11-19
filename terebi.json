@@ -10,6 +10,7 @@
 
   "cutoffs": {
     "standardCutoff": [
+            { "image": "rbxassetid://0", "duration": 0.05, "showLogo": false },
       { "image": "rbxassetid://135326308577427", "duration": 0.3, "showLogo": false },
             { "image": "rbxassetid://131117385687952", "duration": 0.7, "showLogo": false },
       { "image": "rbxassetid://0", "duration": 0.05, "showLogo": false }
