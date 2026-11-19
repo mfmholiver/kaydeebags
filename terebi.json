@@ -1,14 +1,25 @@
-[
-  { "image": "rbxassetid://77571858874427", "duration": 5 },
-  { "image": "rbxassetid://0", "duration": 0.05 },
-  { "image": "rbxassetid://111856290727133", "duration": 5 },
-  { "image": "rbxassetid://0", "duration": 0.05 },
-  { "image": "rbxassetid://16599843165", "duration": 5 },
-  { "image": "rbxassetid://0", "duration": 0.05 },
-  { "image": "rbxassetid://121593767168801", "duration": 5 },
-  { "image": "rbxassetid://0", "duration": 0.05 },
-  { "image": "rbxassetid://109536250412258", "duration": 1 },
-  { "image": "rbxassetid://0", "duration": 0.05 },
-  { "image": "rbxassetid://91374417817429", "duration": 1 },
-  { "image": "rbxassetid://0", "duration": 0.05 }
-]
+{
+  "defaultLogoImage": "rbxassetid://134483333597016",
+
+  "idents": {
+    "stationIdent": [
+      { "image": "rbxassetid://75057404051858", "duration": 0.4, "showLogo": false },
+      { "image": "rbxassetid://75057404051858", "duration": 0.6, "showLogo": false }
+    ]
+  },
+
+  "cutoffs": {
+    "standardCutoff": [
+      { "image": "rbxassetid://135326308577427", "duration": 0.3, "showLogo": false },
+            { "image": "rbxassetid://131117385687952", "duration": 0.7, "showLogo": false },
+      { "image": "rbxassetid://0", "duration": 0.05, "showLogo": false }
+    ]
+  },
+
+  "frames": [
+    { "ident": "stationIdent" },
+    { "image": "rbxassetid://75057404051858", "duration": 5, "showLogo": true },
+    { "image": "rbxassetid://75057404051858", "duration": 5, "showLogo": false },
+    { "cutoff": "standardCutoff" }
+  ]
+}
